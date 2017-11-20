@@ -1,0 +1,6 @@
+{
+"name":"production",
+"description":"some description",
+"cookbook_version":{"apache":"= 0.2.0"}
+}
+

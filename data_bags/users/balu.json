@@ -1,0 +1,7 @@
+{
+"id":"balu",
+"comment":"some comment",
+"uid":4000,
+"home":"/home/balu",
+"shell":"/bin/bash"
+}
