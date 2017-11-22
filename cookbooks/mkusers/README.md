@@ -1,4 +1,4 @@
-# myuser1
+# mkusers
 
 TODO: Enter the cookbook description here.
 

@@ -1,0 +1,7 @@
+name 'mkusers'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures mkusers'
+long_description 'Installs/Configures mkusers'
+version '0.1.0'

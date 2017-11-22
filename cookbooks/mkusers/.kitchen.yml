@@ -15,5 +15,5 @@ platforms:
 suites:
   - name: default
     run_list:
-      - recipe[myuser1::default]
+      - recipe[mkusers::default]
     attributes:
